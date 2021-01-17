@@ -1,1 +1,1 @@
-# Bilkent EEE443 Neural Networks Mini-Projects
+# Bilkent EEE 443 Neural Networks Mini-Projects
