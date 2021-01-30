@@ -9,12 +9,12 @@ This repository consists of three mini-project assignments for the course EEE443
 
 ### Mini-Project 2
 
-  * [Report](HW2/ege_ozan_ozyedek_21703374_hw2.pdf)
+  * [Report](HW2/ege_ozan_ozyedek_21703374_hw2_PDF_report.pdf)
   * [Code](HW2/ege_ozan_ozyedek_21703374_hw2.py)
 
 ### Mini-Project 3
 
-  * [Report](HW3/ege_ozan_ozyedek_21703374_hw3.pdf)
+  * [Report](HW3/ege_ozan_ozyedek_21703374_hw3_PDF_fullreport.pdf)
   * [Code](HW3/ege_ozan_ozyedek_21703374_hw3.py)
 
 
