@@ -4,17 +4,17 @@ This repository consists of three mini-project assignments for the course EEE443
 
 ### Mini-Project 1
 
-  * [Report](Neural-Networks-Mini-Projects/blob/main/HW1/ege_ozan_ozyedek_21703374_hw1.pdf)
-  * [Code](Neural-Networks-Mini-Projects/blob/main/HW1/ege_ozan_ozyedek_21703374_hw1.py)
+  * [Report](HW1/ege_ozan_ozyedek_21703374_hw1.pdf)
+  * [Code](HW1/ege_ozan_ozyedek_21703374_hw1.py)
 
 ### Mini-Project 2
 
-  * Report
-  * Code
+  * [Report](HW2/ege_ozan_ozyedek_21703374_hw2.pdf)
+  * [Code](HW2/ege_ozan_ozyedek_21703374_hw2.py)
 
 ### Mini-Project 3
 
-  * Report
-  * Code
+  * [Report](HW3/ege_ozan_ozyedek_21703374_hw3.pdf)
+  * [Code](HW3/ege_ozan_ozyedek_21703374_hw3.py)
 
 
